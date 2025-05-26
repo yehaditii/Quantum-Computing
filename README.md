@@ -13,7 +13,7 @@ This repository contains notes, assignments, code, and project work from the Qua
 ## 🗃️ Directory Structure
 - `notes/` – Weekly theory notes
 - `code/` – Python/Qiskit/Jupyter notebooks
-- `assignments/` – Solved assignments
+- `quizzes/` – Solved quizzes
 - `projects/` – Final project(s) and reports
 - `slides/` – Lecture PDFs or PPTs
 - `references/` – Papers and textbooks
