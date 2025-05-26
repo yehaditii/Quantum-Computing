@@ -1,4 +1,5 @@
 # Quantum-Computing
+Organized by IIT Roorkee & Centre for Development of Advanced Computing with the support of the Ministry of Electronics and Information Technology (MeitY), Government of India.
 This repository contains notes, assignments, code, and project work from the Quantum Computing course I completed in May'25
 
 ## 📚 Topics Covered
